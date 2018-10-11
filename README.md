@@ -9,6 +9,7 @@ The solution will:
 * Adhere to, and use, nice open standards like REST, JSON, ANSI SQL etc
 * Be free of licensing where at all possible
   
+# MIT License
 Am running this under the MIT License:-
 
 Copyright (c) 2018 Simon Gregory
