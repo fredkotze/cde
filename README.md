@@ -10,7 +10,7 @@ The solution will:
 * Be free of licensing where at all possible
   
 # MIT License
-Am running this under the MIT License:-
+Am running this under the MIT License ( https://opensource.org/licenses/MIT )...
 
 Copyright (c) 2018 Simon Gregory
 
