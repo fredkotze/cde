@@ -8,6 +8,7 @@ The solution will:
 * Be flexible to allow for customisation with connectors and data feeds
 * Adhere to, and use, nice open standards like REST, JSON, ANSI SQL etc
 * Be free of licensing where at all possible
+* Allow for possible use cases such as Billing, Capacity, and Configuration reporting
   
 # MIT License
 Am running this under the MIT License ( https://opensource.org/licenses/MIT )...
