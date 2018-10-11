@@ -1,6 +1,8 @@
 # CDE
 The Cloud Data Engine (CDE) is a pet project that I dreamt up whilst supporting a convoluted script-kiddy solution that was supposed to be temporary for a client... 4 years isn’t so temporary!  
+
 Anyhow the intended goal of this project is to provide a modular solution to consolidate data from disparate Cloud Services including on-premise IaaS/PaaS/SaaS services.  
+
 The solution will:
 * By default, use opensource technologies
 * Be flexible to allow for customisation with connectors and data feeds
